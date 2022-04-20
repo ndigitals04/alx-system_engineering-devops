@@ -3,3 +3,4 @@
 1-listit: Lists files in working directories
 2-bring_me_home: change directory to home directory
 3-listfiles: List files in long format
+4-listmorefiles: List files that are hidden (.)
