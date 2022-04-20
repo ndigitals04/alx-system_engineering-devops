@@ -5,3 +5,4 @@
 3-listfiles: List files in long format
 4-listmorefiles: List files that are hidden (.)
 5-listmorefiles: List long format of files but with group and user ID's instead of name
+6-firstdirectory: A script that creates a directory 'my_first_directory' in /tmp/ folder
